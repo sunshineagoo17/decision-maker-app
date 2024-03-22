@@ -1,7 +1,7 @@
 {
   "name": "decision-maker",
   "version": "0.1.0",
-  "homepage": "https://sunshineagoo17.github.io/decision-maker",
+  "homepage": "https://sunshineagoo17.github.io/decision-maker-app",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.5.1",
